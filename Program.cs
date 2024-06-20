@@ -25,7 +25,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-//aysegulma
+//aysegulma - 2024
 app.UseCors(x => x
                     .AllowAnyMethod()
                     .AllowAnyHeader()
