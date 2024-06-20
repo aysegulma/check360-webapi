@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wrcAMwbpqxqM324+dxZbhIL6l4uHyd65y+BZnvEF0C0=",
+  "Source": "CheckWebApi",
+  "BasePath": "_content/CheckWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
